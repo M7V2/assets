@@ -1,0 +1,10 @@
+"name": "M7V2 Token",
+    "website": "https://m7v2.com/",
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x8d55eca212a56e9d3a0c337950f910e3397e1e68",
+    "type": "BEP20",
+    "symbol": "M7V2",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x8d55eca212a56e9d3a0c337950f910e3397e1e68"
+}
